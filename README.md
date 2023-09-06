@@ -47,6 +47,26 @@ In this section, I recommend trying out some sports that offer great experiences
 > *"Science is the great antidote to the poison of enthusiasm and superstition."* - *Adam Smith*
 
 ---
+# Code Fencing
+
+```
+RewriteEngine On
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} !^www\.domain\.com$ [NC]
+RewriteRule ^(.*)$ https://www.domain.com/$1 [L,R=301]
+```
+[Forcing SSL and WWW using .htaccess](https://stackoverflow.com/questions/24711083/forcing-ssl-and-www-using-htaccess)
+
+```
+RewriteEngine on
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+```
+[Force HTTPS](https://css-tricks.com/snippets/htaccess/force-https/)
+
 
 
 
