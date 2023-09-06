@@ -14,5 +14,36 @@ Boston is a captivating vacation spot that seamlessly blends history, culture, a
 ---
 [MyStats](MyStats.md);
 
+---
+### ---
+#  Sports
+In this section, I recommend trying out some sports that offer great experiences. Each of these sports has its unique appeal, whether for physical fitness, teamwork, or just pure enjoyment.
+---
+#  Sports
+In this section, I recommend trying out some sports that offer great experiences. Each of these sports has its unique appeal, whether for physical fitness, teamwork, or just pure enjoyment.
+
+| Sport           | Why I Recommend It                             | Average Weekly Hours |
+|-----------------|------------------------------------------------|----------------------|
+| Tennis          | A fantastic way to stay active and improve     | 5-7 hours            |
+|                 | hand-eye coordination. Tennis is also great    |                      |
+|                 | for socializing on the court.                  |                      |
+|-----------------|----------------------------------------------- |----------------------|
+| Hiking          | Explore the great outdoors, connect with       | 4-6 hours            |
+|                 | nature, and get some fresh air. Hiking is a    |                      |
+|                 | wonderful way to de-stress.                    |                      |
+|-----------------|------------------------------------------------|----------------------|
+| Basketball      | A fast-paced team sport that's both fun and    | 3-5 hours            |
+|                 | challenging. Great for improving endurance     |                      |
+|                 | and teamwork skills.                           |                      |
+|-----------------|------------------------------------------------|----------------------|
+| Yoga            | Achieve balance and inner peace through        | 2-4 hours            |
+|                 | yoga practice. It's perfect for relaxation     |                      |
+|                 | and flexibility.                               |                      |
+
+---
+
+
+
+
 
 
