@@ -41,7 +41,12 @@ In this section, I recommend trying out some sports that offer great experiences
 |                 | and flexibility.                               |                      |
 
 ---
+# Pithy Quotes 
+> *"The important thing is not to stop questioning. Curiosity has its own reason for existing"* - *AlbertEinstein*
 
+> *"Science is the great antidote to the poison of enthusiasm and superstition."* - *Adam Smith*
+
+---
 
 
 
